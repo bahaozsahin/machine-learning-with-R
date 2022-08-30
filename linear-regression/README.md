@@ -13,7 +13,7 @@ Related corrplot graph is:
 
 Related corrgram graph is:
 
-![image](https://github.com/bahaozsahin/machine-learning-with-R/blob/main/linear-regression/graphs/corrogram_plot.png?raw=true)
+![image](https://github.com/bahaozsahin/machine-learning-with-R/blob/main/linear-regression/graphs/corrgram_plot.png?raw=true)
 
 Then, we checked the histogram for G3 values since this column is the column we will predict
 

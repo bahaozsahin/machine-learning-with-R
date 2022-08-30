@@ -29,3 +29,8 @@ Then I used built in plot(model) function to plot residuals for regression valid
 ![image](https://github.com/bahaozsahin/machine-learning-with-R/blob/main/linear-regression/graphs/res_plot2.png?raw=true)
 ![image](https://github.com/bahaozsahin/machine-learning-with-R/blob/main/linear-regression/graphs/res_plot3.png?raw=true)
 ![image](https://github.com/bahaozsahin/machine-learning-with-R/blob/main/linear-regression/graphs/res_plot4.png?raw=true)
+
+
+Finally the predictions 
+
+![image](https://github.com/bahaozsahin/machine-learning-with-R/blob/main/linear-regression/graphs/predictions.png?raw=true)

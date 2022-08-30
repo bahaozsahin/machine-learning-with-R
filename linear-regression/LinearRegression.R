@@ -121,3 +121,7 @@ print(rmse)
 
 #remember that none of the data was normalized
 #and also i made this solely for learning
+
+pl <- ggplot(data = results, aes(x = real, y = pred)) + geom_point()
+pl <- pl + geom_abline(slope = 1)
+print(pl)

@@ -2,6 +2,8 @@ LinearRegression.R is the main script for this linear regression mini-project
 
 The data used for this project is student-mat.csv and the seperator for the file is semi-colons (;)
 
+PS: I didn't do any normalization for this mini-project but this can be added
+
 All the visualisation made in the script will be added here with the descriptions and can be found in the graphs folder
 
 First I checked the correlations between columns using the library corrplot and corrgram 
